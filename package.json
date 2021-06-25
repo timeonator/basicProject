@@ -1,0 +1,21 @@
+{
+  "name": "basicProject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/timeonator/basicProject.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/timeonator/basicProject/issues"
+  },
+  "homepage": "https://github.com/timeonator/basicProject#readme"
+}
